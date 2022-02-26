@@ -1,0 +1,19 @@
+﻿<Page x:Class="ITCollege.Pages.UserPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ITCollege.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="50" d:DesignWidth="800"
+      Title="UserPage">
+
+    <Grid>
+        <DockPanel  >
+            <Button x:Name="PassGraphBT" Content="График" MaxWidth="200" MinWidth="200" DockPanel.Dock="Left"  />
+            <Button x:Name="HistoryBT" Content="История" MaxWidth="200" MinWidth="200" DockPanel.Dock="Left" Background="#FF23FF00" />
+            <Button x:Name="Kurses" Content="Курсы" MaxWidth="200" MinWidth="200" DockPanel.Dock="Right" Background="#FF23FF00" />
+            <Button x:Name="OtchetBT" Content="Отчет" MaxWidth="200" MinWidth="200" DockPanel.Dock="Right" />
+        </DockPanel>
+    </Grid>
+</Page>

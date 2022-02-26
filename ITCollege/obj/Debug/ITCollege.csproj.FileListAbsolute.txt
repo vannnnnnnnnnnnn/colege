@@ -1,0 +1,36 @@
+E:\КАРА\ITCollege\ITCollege\bin\Debug\ITCollege.exe.config
+E:\КАРА\ITCollege\ITCollege\bin\Debug\ITCollege.exe
+E:\КАРА\ITCollege\ITCollege\bin\Debug\ITCollege.pdb
+E:\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege.csprojAssemblyReference.cache
+E:\КАРА\ITCollege\ITCollege\obj\Debug\MainWindow.g.cs
+E:\КАРА\ITCollege\ITCollege\obj\Debug\App.g.cs
+E:\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege_MarkupCompile.cache
+E:\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege_MarkupCompile.lref
+E:\КАРА\ITCollege\ITCollege\obj\Debug\MainWindow.baml
+E:\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege.g.resources
+E:\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege.Properties.Resources.resources
+E:\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege.csproj.GenerateResource.cache
+E:\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege.exe
+E:\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege.pdb
+E:\КАРА\ITCollege\ITCollege\obj\Debug\Pages\AuthPage.g.cs
+E:\КАРА\ITCollege\ITCollege\obj\Debug\Pages\UserPage.g.cs
+E:\КАРА\ITCollege\ITCollege\obj\Debug\Pages\AuthPage.baml
+E:\КАРА\ITCollege\ITCollege\obj\Debug\Pages\UserPage.baml
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\bin\Debug\ITCollege.exe.config
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\bin\Debug\ITCollege.exe
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\bin\Debug\ITCollege.pdb
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege.csprojAssemblyReference.cache
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\obj\Debug\MainWindow.g.cs
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\obj\Debug\Pages\AuthPage.g.cs
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\obj\Debug\Pages\UserPage.g.cs
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\obj\Debug\App.g.cs
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege_MarkupCompile.cache
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege_MarkupCompile.lref
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\obj\Debug\MainWindow.baml
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\obj\Debug\Pages\AuthPage.baml
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\obj\Debug\Pages\UserPage.baml
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege.g.resources
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege.Properties.Resources.resources
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege.csproj.GenerateResource.cache
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege.exe
+\\192.168.0.226\работы студентов\Ип-83\КАРА\ITCollege\ITCollege\obj\Debug\ITCollege.pdb

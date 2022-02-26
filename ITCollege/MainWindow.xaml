@@ -1,0 +1,23 @@
+﻿<Window x:Class="ITCollege.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ITCollege"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="450"
+        Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="50" />
+        </Grid.RowDefinitions>
+        <Frame x:Name="Frame0" Grid.Row="0" />
+        <Frame x:Name="Frame1" Grid.Row="1"/>
+        <Button x:Name="AuthBT" Grid.Row="1" Margin="0,0,10,10" Content="Войти" HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                Click="AuthBT_Click" Width="65" Height="32" Background="#FFEA0E7C" Foreground="White" />
+
+    </Grid>
+</Window>
